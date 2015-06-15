@@ -1,0 +1,29 @@
+{
+  "name": "angular-multiple-transclusion",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mcasimir/angular-multiple-transclusion",
+  "authors": [
+    "mcasimir <maurizio.cas@gmail.com>"
+  ],
+  "description": "Simple unobtrusive Angular multiple transclusion support for ng-transclude",
+  "main": "dist/angular-multiple-transclusion.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "Angular",
+    "AngularJs",
+    "ng-transclude",
+    "multiple-transclude",
+    "multi-transclusion"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

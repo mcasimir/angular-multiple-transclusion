@@ -1,0 +1,29 @@
+{
+  "name": "angular-multiple-transclusion",
+  "version": "1.0.0",
+  "description": "Simple unobtrusive Angular multiple transclusion support for ng-transclude",
+  "main": "dist/angular-multiple-transclusion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcasimir/angular-multiple-transclusion.git"
+  },
+  "keywords": [
+    "Angular",
+    "ng-transclude",
+    "AngularJs"
+  ],
+  "author": "mcasimir (https://github.com/mcasimir)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcasimir/angular-multiple-transclusion/issues"
+  },
+  "homepage": "https://github.com/mcasimir/angular-multiple-transclusion",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
+  }
+}
